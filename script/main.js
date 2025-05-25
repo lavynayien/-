@@ -27,7 +27,7 @@ const messages = [
     "aku cuma mau bilang",
     "buah apel buah jeruk",
     "i love you❤️",
-    "cantikku",
+    "cantik",
     "coba pencet tombol dibawah ini 💝"
 ];
 
